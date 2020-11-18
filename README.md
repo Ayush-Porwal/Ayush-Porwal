@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Ayush-Porwal)
 ![](https://hit.yhype.halp.im/github/profile?user_id=31033167)
 <!--
 **Ayush-Porwal/Ayush-Porwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
