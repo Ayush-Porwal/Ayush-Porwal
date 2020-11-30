@@ -1,6 +1,14 @@
-### Hi there 👋
+<img src="./cover.jpg" alt="cover-image" />
+
+### Hi there 👋, welcome to my github page!
+
+My name is Ayush Porwal. I am an undergraduate from BITS Pilani - Hyderabad. I do web development 😄
+
+
 ![](https://komarev.com/ghpvc/?username=Ayush-Porwal)
 ![](https://hit.yhype.halp.im/github/profile?user_id=31033167)
+
+![Ayush Porwal's github stats](https://github-readme-stats.vercel.app/api?username=Ayush-Porwal&show_icons=true&hide_border=true)
 <!--
 **Ayush-Porwal/Ayush-Porwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
