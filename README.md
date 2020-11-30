@@ -1,4 +1,4 @@
-<img src="./cover.jpg" alt="cover-image" />
+<img src="./cover.jpg" alt="cover-image" height = '200px'/>
 
 ### Hi there 👋, welcome to my github page!
 
