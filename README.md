@@ -17,7 +17,7 @@ My name is Ayush Porwal. I am an undergraduate from BITS Pilani - Hyderabad. I d
 ---
 
 ![](https://komarev.com/ghpvc/?username=Ayush-Porwal)
-![](https://hit.yhype.halp.im/github/profile?user_id=31033167)
+![](https://hit.yhype.me/github/profile?user_id=31033167)
 
 ---
 
